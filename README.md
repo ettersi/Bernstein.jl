@@ -1,5 +1,8 @@
 # Bernstein.jl
 
+[![Build Status](https://travis-ci.org/ettersi/Bernstein.jl.svg?branch=master)](https://travis-ci.org/ettersi/Bernstein.jl)
+[![codecov.io](http://codecov.io/github/ettersi/Bernstein.jl/coverage.svg?branch=master)](http://codecov.io/github/ettersi/Bernstein.jl?branch=master)
+
 Convenience functions for working with Bernstein ellipses.
 
 Exported functions:
