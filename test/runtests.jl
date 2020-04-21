@@ -1,5 +1,5 @@
-using Bernstein
-using Bernstein: rsmo, radius, semimajor, semiminor
+using BernsteinEllipses
+using BernsteinEllipses: rsmo, radius, semimajor, semiminor
 
 using Test
 

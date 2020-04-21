@@ -1,4 +1,4 @@
-module Bernstein
+module BernsteinEllipses
 
 export jouk, ijouk
 
