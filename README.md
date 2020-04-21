@@ -8,7 +8,7 @@ Convenience functions for working with Bernstein ellipses.
 Exported functions:
 
  - `jouk(z)`: Forward Joukowsky map `jouk(z) = (z + inv(z))/2`.
- - `ijouk(x)`: Inverse Joukowsky map. Different branches of this map can be selected using keywords arguments. See `?ijouk(x)`.
+ - `ijouk(x)`: Inverse Joukowsky map. Different branches of this map can be selected using keywords arguments.
 
 Unexported functions due to likely name clashes:
 
