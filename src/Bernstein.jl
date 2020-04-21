@@ -20,10 +20,10 @@ Joukowsky map `(z+z^-1)/2`.
 jouk(z) = (z+inv(z))/2
 
 """
-    ijouk(x; halfplane=Val(false), branch=Val(true))
+    ijouk(x; halfplane=Val(false), branch=Val(true)) -> z
 
-Inverse Joukowsky map `x ± √(x^2-1)`. The result `z` is
-determined as follows.
+Inverse Joukowsky map `z = x ± √(x^2-1)`. The branch to evaluate is seleced as
+follows.
 
 +-----------+---------------+----------------+
 |           | `!halfplane`  |  `halfplane`   |
